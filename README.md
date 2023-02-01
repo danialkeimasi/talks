@@ -1,3 +1,3 @@
-# Python Dataclass Tools
+# Talks
 
-Codes I used in tech-talk presentation in @QueraTeam.
+Codes I used in talks presentations.
